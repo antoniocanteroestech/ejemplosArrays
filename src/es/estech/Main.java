@@ -71,6 +71,6 @@ public class Main {
             System.out.println("|");                    // al final de cada fila le ponemos un decorador
         }
 
-
+//
     }
 }
